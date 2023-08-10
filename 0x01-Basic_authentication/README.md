@@ -608,4 +608,3 @@ bob@dylan:~$
 ```
 
 File: api/v1/auth/basic_auth.py
-hi
